@@ -6,10 +6,10 @@ and reusable set of well-defined functionality that encapsulates its implementat
 ## What are the characteristics of a component?
 - Reusability 
 - Replaceable 
-Not context specific
-Extensible 
-Encapsulated 
-Independent 
+- Not context specific
+- Extensible 
+- Encapsulated 
+- Independent 
 
 ## What are the advantages of using component-based architecture?
 
