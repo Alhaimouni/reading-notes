@@ -5,6 +5,7 @@
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
+
     What is a Component?
 A component is a modular, portable, replaceable,
 and reusable set of well-defined functionality that encapsulates its implementation and exporting it
@@ -40,6 +41,7 @@ What is “props” short for?
 properties 
 
 ================================================================>>>
+
 How are props used in React?
 
 I will be explaining how to use Props step by step.
