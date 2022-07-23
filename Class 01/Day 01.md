@@ -33,6 +33,7 @@ I will be explaining how to use Props step by step.
 
 1- define an attribute and its value(data)
 2- pass it to child component(s) by using Props
+
 3- render the Props Data
 
 
