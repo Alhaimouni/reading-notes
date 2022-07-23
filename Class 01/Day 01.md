@@ -4,8 +4,8 @@ and reusable set of well-defined functionality that encapsulates its implementat
  as a higher-level interface.
 
 ## What are the characteristics of a component?
-Reusability 
-Replaceable 
+- Reusability 
+- Replaceable 
 Not context specific
 Extensible 
 Encapsulated 
