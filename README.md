@@ -7,4 +7,4 @@
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-[Github] (https://github.com/Alhaimouni)
+[Github](https://github.com/Alhaimouni)
