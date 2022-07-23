@@ -13,14 +13,14 @@ and reusable set of well-defined functionality that encapsulates its implementat
 
 ## What are the advantages of using component-based architecture?
 
-Ease of deployment
-Reduced cost
-Ease of development
-Reusable 
-Modification of technical complexity
-Reliability 
-System maintenance and evolution
-Independent 
+- Ease of deployment
+- Reduced cost
+- Ease of development
+- Reusable 
+- Modification of technical complexity
+- Reliability 
+- System maintenance and evolution
+- Independent 
 
 
 ## What is “props” short for?
