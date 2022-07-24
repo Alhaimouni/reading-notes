@@ -33,6 +33,9 @@ Props are  handle outside the component it self and updated outside.
 
 When the state changes insde the parent component.
 
+## Things I want to know more about
+
+
 ## What are some examples of things that we could store in state?
 
 When we use a dynamic examples like counters
