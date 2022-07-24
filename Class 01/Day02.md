@@ -1,3 +1,4 @@
+# React life cycle and the diffrents between props and state.
 
 ## Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 render.
