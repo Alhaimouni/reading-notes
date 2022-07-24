@@ -1,2 +1,2 @@
-## Q1 Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+## Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 render
