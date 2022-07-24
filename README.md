@@ -8,7 +8,7 @@
 | Day | Description |
 | --- | ----------- |
 | 01 | [Read01](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day%2001.md) |
-| 02 |  [Read02](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day02) |                                                                                    |
+| 02 |  [Read02](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day02.md) |                                                                                    |
 ## Code 401 - Advanced Software Development
 
 [Github](https://github.com/Alhaimouni)
