@@ -16,7 +16,7 @@ Mounting.
 ## What does componentDidMount do?
 This method is invoked immediately after a component is mounted. 
 
-================================================================================================>>
+==========================================================================================>>
 
 ## What types of things can you pass in the props?
 it acts like aurgs in function we can pass a number or string as the initial count in counter application.
