@@ -1,5 +1,5 @@
 
-## What is a ‘Controlled Component’?
+## What is a "Controlled Component"?
 
 it is an element that when its value will change, it will be updated by setState and passed by props, this change will be notified by the parent component and will control it.
 2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
@@ -9,8 +9,6 @@ No, because we used the controlled component in the form, like the onChange prop
 
 by storing this value by setState in the onChange function, the target will be event.target.name.value.
  
-
-The Conditional (Ternary) Operator Explained
  
 
 ## Why would we use a ternary operator?
