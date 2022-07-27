@@ -23,5 +23,3 @@ you have to make it dynamic, by using states into each component that needs to c
 based on where it will be used and rendered? sometimes you have to pass this state from its component to another to render it there.
 Things I want to know more about
 classes in ES6.
-
-# Higher-Order Functions
