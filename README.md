@@ -14,6 +14,8 @@
 | 05 | [Putting it all together](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day05.md)
 | 06 | [Node.js](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day06.md)
 | 07 | [REST&API KEYS](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day07.md)
+| 08 | [API's](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day08.md)
+
 ## Code 401 - Advanced Software Development
 
 [Github](https://github.com/Alhaimouni)
