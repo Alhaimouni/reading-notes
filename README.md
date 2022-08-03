@@ -16,6 +16,7 @@
 | 07 | [REST&API KEYS](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day07.md)
 | 08 | [API's](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day08.md)
 | 09 | [Functional Programming](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day09.md)
+| 10 | [ In memory storage](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day10.md)
 
 ## Code 401 - Advanced Software Development
 
