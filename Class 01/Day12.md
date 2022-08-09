@@ -1,83 +1,72 @@
-## SQL and NoSQL
+# CRUD
 
-Fill in the chart below with five differences between SQL and NoSQL databases:
- SQL                        |     NoSQL
- ---------------------------|------------------------------------------ 
-  Relational Databases      |  non-relational or distributed database. 
- table based databases      | document based
- have predefined schema     | dynamic schema
- vertically scalable        | horizontally scalable
- structured query language  | Unstructured Query Language
+## Status Codes Based On REST Methods
 
+**In your own words, describe what each group of status code represents:**
 
+100’s = the request has been recieved from the client and waiting the server to comply .
+200’s = success request , tells the client that the request has been accepted.
+300’s = redirection , which means that the request that have been srnt to the server is invalid.
+400’s = client error , invalid request.
+500’s = server errors
 
-## What kind of data is a good fit for an SQL database?
+**What is a status code 202?**
 
-- **SQL databases** are good fit for the complex query intensive environment whereas NoSQL databases are not good fit for complex queries. 
+the request has been accepted for processing, but the processing has not been completed.
 
-## Give a real world example.
+**What is a status code 308?**
 
-- **Practical Examples** to Build a Strong Foundation in Linux
+indicates that the resource requested has been definitively moved to the URL given by the Location headers.
 
-## What kind of data is a good fit a NoSQL database?
+**What code would you use if an update didn’t return data to a client?**
 
+204 No Content
 
-- **NoSQL database** fits better for the hierarchical data storage as it follows the key-value pair way of storing data similar to JSON data.
+**what code would you use if a resource used to exist but no longer does?**
 
+410
 
-## Which type of database is best for hierarchical data storage?
+**What is the ‘Forbidden’ status code?**
 
-- **NoSQL**
+403 Forbidden client error status response code indicates that the server understood the request but refuses to authorize it.
 
-## Which type of database is best for scalability?
+**Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
 
-- **SQL**
+to be access in heroku.
 
+**What is middleware?**
 
-## What does SQL stand for?
+Middleware is software that provides common services and capabilities to applications outside of what’s offered by the operating system. 
+Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
 
+**What does app.use(express.json()) do?**
 
-- **Structured Query Language**
+recognize the incoming Request Object as a JSON Object.
 
+**What does the /:id mean in a route?**
 
-## What is a realational database?
-
-
-- **A relational database** is a type of database that stores and provides access to data points that are related to one another. 
-
-
-## What type of structure does a relational database work with?
-
-- **The relational** model means that the logical data structures—the data tables, views, and indexes.
+It's mean a key of object which you are shown in the database and declared by default.
 
 
-## What is a ‘schema’?
+**What is the difference beween PUT and PATCH?**
 
-- **A schema is a collection** of logical structures of data, or schema objects. A schema is owned by a database user 
+when you want to update a resource with PUT request, you have to send the full payload as the request whereas with PATCH ,
+you only send the parameters which you want to update. Related: Suppose we have a resource that holds the first name and last name of a person.
 
-## What is a NoSQL database?
+**How do you make a default value in a schema?**
 
-- **NoSQL is a type** of database that stores and retrieves data without needing to define its structure firs.
+Make mongoose string schema type default value as blank and make the field optional. 
+testschema = mongoose. Schema({ name:{ type:String, required:true, unique:true }, image:{ type:String, required:true }, category:{ type:String }, })/
 
+**What does a 500 error status code mean?**
 
-## Howo does it work?
+Internal Server Error server error response code
 
+**What is the difference between a status 200 and a status 201?**
 
-- databases that store data in a format other than relational tables. ... NoSQL databases can store relationship data—they just store it differently than relational databases do.
-
-## What is inside of a Mongo database?
-
-**MongoDB stores data records as documents** (specifically BSON documents) which are gathered together in collections. A database stores one or more collections of documents.
-
-## Which is more flexible - SQL or MongoDB? and why.
-
-**While MongoDB is more flexible** and ensures high and diverse data availability, a SQL Database operates with the ACID (Atomicity, Consistency, Isolation, and Durability) properties and ensures greater reliability of transactions.
-
-
-## What is the disadvantage of a NoSQL database?
-
-**Don't have the reliability** functions which Relational Databases have.
+Successful. The 200 status code is by far the most common returned. It means, simply, that the request was received and understood and is being processed.
+A 201 status code indicates that a request was successful and as a result, a resource has been created (for example a new page).
 
 ## Things I want to know more about
 
-Mongo and Mongoose
+CRUD
