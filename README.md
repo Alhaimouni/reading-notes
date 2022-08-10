@@ -18,7 +18,9 @@
 | 09 | [Functional Programming](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day09.md)
 | 10 | [In memory storage](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day10.md)
 | 11 | [MongoDB](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day11.md)
-| 12 | [CRUD](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day11.md)
+| 12 | [CRUD](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day12.md)
+| 13 | [CRUD](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day13.md)
+| 14 | [History](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day14.md)
 
 ## Code 401 - Advanced Software Development
 
