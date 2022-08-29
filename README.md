@@ -19,14 +19,20 @@
 | 13 | [CRUD P2](https://github.com/Alhaimouni/reading-notes/blob/main/301/Day13.md)
 | 14 | [History](https://github.com/Alhaimouni/reading-notes/blob/main/301/Day14.md)
 
+## Code 401 - Prep Works
+
+| Number | Description |
+| --- | ----------- |
+| 00 | [SQL](https://github.com/Alhaimouni/reading-notes/blob/main/401/sql.md) |
+| 01 | [Mindset]()|
+| 02 | |
+
 
 ## Code 401 - Advanced Software Development
 
 | Day | Description |
 | --- | ----------- |
-| 00 | [SQL](https://github.com/Alhaimouni/reading-notes/blob/main/401/sql.md) |
 | 01 | [TDD CICD](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day01.md)|
-| 02 | |
 
 
 
