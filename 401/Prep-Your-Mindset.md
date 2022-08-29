@@ -21,6 +21,9 @@ Activities designed, typically by a teacher, for the sole purpose of effectively
 the idea that we can grow our brain's capacity to learn and to solve problems <br>
 [Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 
+#### 
+[Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
+
  
 
 
