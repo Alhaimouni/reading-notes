@@ -26,7 +26,14 @@
 
 | Day | Description |
 | --- | ----------- |
-| 00 | Prep Works sql |
+| 00 | [SQL](https://github.com/Alhaimouni/reading-notes/blob/main/401/sql.md) |
 
+
+
+
+
+
+
+---
 
 [Github](https://github.com/Alhaimouni)
