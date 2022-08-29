@@ -6,7 +6,7 @@
 ## Code 301 - Intermediate Software Development
 | Day | Description |
 | --- | ----------- |
-| 01 | [intro to react and components ](https://github.com/Alhaimouni/reading-notes/blob/main/301/Day%2001.md) |
+| 01 | [intro to react and components ](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day01.md) |
 | 02 |  [diffrents between porps and states ](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day02.md) |    
 | 03 | [passing functions as props](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day03.md) |
 | 04 | [React and Forms](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day04.md) |
