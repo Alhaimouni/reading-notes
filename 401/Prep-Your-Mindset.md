@@ -16,6 +16,10 @@ Activities designed, typically by a teacher, for the sole purpose of effectively
   <br>
   [ Rosalind ](https://web.archive.org/web/20160607102654/http://rosalind.info/about)
   
+  
+#### As what  Carol Dweck said 
+the idea that we can grow our brain's capacity to learn and to solve problems <br>
+[Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 
  
 
