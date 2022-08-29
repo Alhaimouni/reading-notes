@@ -24,6 +24,9 @@ the idea that we can grow our brain's capacity to learn and to solve problems <b
 #### As what Angela said GRIT is the best way to success
 [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
+#### Alain de Botton  said A kinder, gentler philosophy of success
+[Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success?subtitle=ar)
+
 
 
  
