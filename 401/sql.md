@@ -20,4 +20,4 @@ FROM mytable
 WHERE condition
     AND/OR another_condition
     AND/OR …;</pre>
-![Condition Table]()
+![Condition Table](./assets/p1.png)
