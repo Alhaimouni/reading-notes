@@ -22,6 +22,12 @@
 | 13 | [CRUD](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day13.md)
 | 14 | [History](https://github.com/Alhaimouni/reading-notes/blob/main/Class%2001/Day14.md)
 
+
 ## Code 401 - Advanced Software Development
+
+| Day | Description |
+| --- | ----------- |
+| 01 | meow |
+
 
 [Github](https://github.com/Alhaimouni)
