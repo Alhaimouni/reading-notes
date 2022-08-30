@@ -9,8 +9,6 @@ This is a part of the operating system that defines how the terminal will behave
 > We can use  < echo $SHELL >
 
 ## Basic Navigation!
-
-
 <pre>
 pwd //Print Working Directory - ie. Where are we currently.
 
@@ -47,13 +45,8 @@ curl wttr.in/amman // shows the weather
 rm -rf <file/folder name> // removes an unempty file.
 
   ** // after the dash (-) command is called "flag" \\ ** </pre>
-
-
-
-Relative path
-A file or directory location relative to where we currently are in the file system.
-Absolute path
-A file or directory location in relation to the root of the file system.</pre>
+  
+  ## Manual Pages!
 
 
 
