@@ -82,6 +82,13 @@ Move - ie. Move a file or directory (can also be used to rename).
 rm
 Remove - ie. Delete a file. </pre>
 
+##### Notes :
+>No undo
+The Linux command line does not have an undo feature. Perform destructive actions carefully.
+
+>Command line options
+Most commands have many useful command line options. Make sure you skim the man page for new commands so you are familiar with what they can do and what is available.
+
 
 
 
@@ -94,3 +101,4 @@ Remove - ie. Delete a file. </pre>
 
 ---
 
+[linuxtutorial CheatSheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
