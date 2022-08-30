@@ -25,7 +25,7 @@
 | --- | ----------- |
 | 00 | [SQL](https://github.com/Alhaimouni/reading-notes/blob/main/401/sql.md)|
 | 01 | [Mindset](https://github.com/Alhaimouni/reading-notes/blob/main/401/Prep-Your-Mindset.md)|
-| 02 | |
+| 02 | [Command Line]()|
 
 
 ## Code 401 - Advanced Software Development
