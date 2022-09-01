@@ -14,4 +14,8 @@ JavaScript variable and function names are case-sensitive.</pre>
 </ul>
   
 #### HiddenErrors(Logical):
-  Catch Use of Assignment Operator Instead of Equality Operator
+ 
+<ul>
+  <li>Catch Use of Assignment Operator Instead of Equality Operator</li>
+  <li>Catch Missing Open and Closing Parenthesis After a Function Call </li>
+</ul>
