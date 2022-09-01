@@ -18,4 +18,5 @@ JavaScript variable and function names are case-sensitive.</pre>
 <ul>
   <li>Catch Use of Assignment Operator Instead of Equality Operator</li>
   <li>Catch Missing Open and Closing Parenthesis After a Function Call </li>
+  <li>Catch Arguments Passed in the Wrong Order When Calling a Function</li>
 </ul>
