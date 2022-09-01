@@ -11,3 +11,7 @@ JavaScript variable and function names are case-sensitive.</pre>
 <ul>
   <li>Catch Unclosed Parentheses, Brackets, Braces and Quotes </li>
   <li>Catch Mixed Usage of Single and Double Quotes </li>
+
+  
+#### HiddenErrors(Logical):
+  Catch Use of Assignment Operator Instead of Equality Operator
