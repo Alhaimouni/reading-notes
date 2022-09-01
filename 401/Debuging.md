@@ -8,3 +8,6 @@ will have the browser looking for an object that doesn't exist - and complain in
 JavaScript variable and function names are case-sensitive.</pre>
 
 #### SyntaxError:
+<ul>
+  <li>Catch Unclosed Parentheses, Brackets, Braces and Quotes </li>
+  <li>Catch Mixed Usage of Single and Double Quotes </li>
