@@ -73,6 +73,6 @@ INNER JOIN widget_sales
   ON mywidgets.id = widget_sales.widget_id; </pre>
   
 ## After finish
-![sqlbolt]()
+![sqlbolt](https://github.com/Alhaimouni/reading-notes/blob/main/401/assets/SQL%20lesson%20X.png)
 
 
