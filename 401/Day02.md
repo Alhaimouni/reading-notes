@@ -13,8 +13,10 @@ Unlike PUT, PATCH applies a partial update to the resource. This means that you 
 - Compare and contrast Swagger and APIDoc.js 1 Which HTTP status codes should be sent with each type of (un)successful API call?  
 
 ```text
-apiDocjs: Inline Documentation for RESTful web APIs. It creates a documentation from API annotations in your source code. It includes a default template which uses handlebars, Bootstrap, RequireJS and jQuery for the output of the generated apidata.js and apiproject.js as a html-page;  
-Swagger Inspector: Test and Document Your APIs With Ease. It is a free cloud-based API testing and documentation tool to simplify the validation of any API and generate its corresponding OpenAPI documentation. 
+apiDocjs: Inline Documentation for RESTful web APIs. It creates a documentation from API annotations in your source code.
+It includes a default template which uses handlebars, Bootstrap, RequireJS and jQuery for the output of the generated apidata.
+js and apiproject.js as a html-page;Swagger Inspector: Test and Document Your APIs With Ease. It is a free cloud-based
+API testing and documentation tool to simplify the validation of any API and generate its corresponding OpenAPI documentation. 
 ```
 
 ```text
