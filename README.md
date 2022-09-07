@@ -34,7 +34,7 @@
 | Day | Description |
 | --- | ----------- |
 | 01 | [TDD CICD](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day01.md)|
-| 02 | [Middlewares](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day02.md)
+| 02 | [Express](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day02.md)
 
 
 
