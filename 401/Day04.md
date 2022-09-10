@@ -54,3 +54,9 @@ ORM converts data between type systems that are unable to coexist within relatio
 <pre>resolves the object code and relational database mismatch with three approaches: bottom up, top-down and meet in themiddle.
 Each approach has its share of benefits and drawbacks. When selecting the best software solution,
 developers must fully understand the environment and design requirements</pre>
+
+### Vocabulary 
+#### NoSQL : 
+<pre>NoSQL databases are non-tabular databases and store data differently than relational tables.
+it comes in a variety of types based on their data model.The main types are document, key-value, wide-column, and graph.
+They provide flexible schemas and scale easily with large amounts of data and high user loads. </pre>
