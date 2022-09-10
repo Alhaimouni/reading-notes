@@ -12,3 +12,6 @@ and perform various operations on the data in them. Initially created in the 197
 <li>Data Control Language commands : are used to grant or revoke user access privileges.</li>
 <li>Transaction Control Language commands : are used to change the state of some data -- for example, to COMMIT transaction changes or to ROLLBACK transaction changes.</li>
 </ul>
+
+#### Differences between SQL and NoSQL :
+![Diffrances between sql and nosql](https://cdn.ttgtmedia.com/rms/onlineimages/characterisitcs_of_relational_vs_nonrelational_databases-f.png)
