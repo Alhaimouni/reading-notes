@@ -67,5 +67,32 @@ They provide flexible schemas and scale easily with large amounts of data and hi
 Understanding the request/response cycle is helpful to figure out which files to edit when developing an app
 (and where to look when things aren't working).</pre>
 
+## Questions :
+
+#### Which 3 things had you heard about previously and now have better clarity on?
+
+SQL , WRRC , CRUD system.
+
+#### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+
+ SQL queries , Sequelize , Middlewares
+
+#### What are you most excited about trying to implement or see how it works? 
+
+The Sequelize and ORM technique.
+
+
+
+
+
+## Resources :
+[SQL database](https://www.techtarget.com/searchdatamanagement/definition/SQL)
+<br>
+[Sequelize](https://sequelize.org/)
+<br>
+[ORM](https://www.techopedia.com/definition/24200/object-relational-mapping--orm)
+<br>
+[CRUD system](https://zellwk.com/blog/crud-express-mongodb/)
+
 
 
