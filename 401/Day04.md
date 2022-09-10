@@ -3,7 +3,7 @@
 <pre>Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases
 and perform various operations on the data in them. Initially created in the 1970s. </pre>
 
-#### SQL Command Types :
+### SQL Command Types :
 <ul>
   
 <li>Data Definition Language (DDL) commands : are also called data definition commands because they are used to define data tables.</li>
@@ -13,14 +13,14 @@ and perform various operations on the data in them. Initially created in the 197
 <li>Transaction Control Language commands : are used to change the state of some data -- for example, to COMMIT transaction changes or to ROLLBACK transaction changes.</li>
 </ul>
 
-#### Differences between SQL and NoSQL :
+### Differences between SQL and NoSQL :
 ![Diffrances between sql and nosql](https://cdn.ttgtmedia.com/rms/onlineimages/characterisitcs_of_relational_vs_nonrelational_databases-f.png)
 
-#### What is Sequlize ?
+### What is Sequlize ?
 Sequelize is a modern TypeScript and Node.js ORM for Postgres, MySQL, MariaDB, SQLite and SQL Server, also
 featuring solid transaction support, relations, eager and lazy loading, read replication and more.
 
-#### How to use it with Node js ?
+### How to use it with Node js ?
 
    INSTALL DEPENDENCIES
    
