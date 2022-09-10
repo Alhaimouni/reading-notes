@@ -60,3 +60,9 @@ developers must fully understand the environment and design requirements</pre>
 <pre>NoSQL databases are non-tabular databases and store data differently than relational tables.
 it comes in a variety of types based on their data model.The main types are document, key-value, wide-column, and graph.
 They provide flexible schemas and scale easily with large amounts of data and high user loads. </pre>
+#### DatabaseSChema :
+
+#### WRRC :
+<pre>The request/response cycle traces how a user's request flows through the app.
+Understanding the request/response cycle is helpful to figure out which files to edit when developing an app
+(and where to look when things aren't working).</pre>
