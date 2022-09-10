@@ -15,3 +15,5 @@ and perform various operations on the data in them. Initially created in the 197
 
 #### Differences between SQL and NoSQL :
 ![Diffrances between sql and nosql](https://cdn.ttgtmedia.com/rms/onlineimages/characterisitcs_of_relational_vs_nonrelational_databases-f.png)
+
+#### What is Sequlize and how to use it with Node js ?
