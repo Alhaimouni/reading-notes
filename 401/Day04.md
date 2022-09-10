@@ -17,5 +17,5 @@ and perform various operations on the data in them. Initially created in the 197
 ![Diffrances between sql and nosql](https://cdn.ttgtmedia.com/rms/onlineimages/characterisitcs_of_relational_vs_nonrelational_databases-f.png)
 
 #### What is Sequlize and how to use it with Node js ?
-<pre>Sequelize is a modern TypeScript and Node.js ORM for Postgres, MySQL, MariaDB, SQLite and SQL Server, and more.
-Featuring solid transaction support, relations, eager and lazy loading, read replication and more. </pre>
+<pre>Sequelize is a modern TypeScript and Node.js ORM for Postgres, MySQL, MariaDB, SQLite and SQL Server, also
+featuring solid transaction support, relations, eager and lazy loading, read replication and more. </pre>
