@@ -44,3 +44,13 @@ PERSIST AND QUERY
     });
 
     const users = await User.findAll();
+
+### What is an ORM, how does it work, and how should I use one?
+
+<pre>Object-relational mapping (ORM) is a programming technique in which a metadata descriptor is used to connect object
+code to a relational database.Object code is written in object-oriented programming (OOP) languages such as Java or C#.
+ORM converts data between type systems that are unable to coexist within relational databases and OOP languages. </pre>
+
+<pre>resolves the object code and relational database mismatch with three approaches: bottom up, top-down and meet in themiddle.
+Each approach has its share of benefits and drawbacks. When selecting the best software solution,
+developers must fully understand the environment and design requirements</pre>
