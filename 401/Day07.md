@@ -40,3 +40,10 @@ The queue is a linear data structure in which we can insert the element from one
 ### What are you most excited about trying to implement or see how it works?
 knows how single thread language works with these.
 
+
+
+## Preparation Materials
+[Stack vs Queue](https://favtutor.com/blogs/stack-vs-queue)
+[Implementing Stack and Queue in JS](https://medium.com/globant/implementing-stack-and-queue-in-js-600c81a92120)
+[Stacks and Queues + tips for efficient implementation]()
+
