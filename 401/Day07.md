@@ -44,6 +44,8 @@ knows how single thread language works with these.
 
 ## Preparation Materials
 [Stack vs Queue](https://favtutor.com/blogs/stack-vs-queue)
+<br>
 [Implementing Stack and Queue in JS](https://medium.com/globant/implementing-stack-and-queue-in-js-600c81a92120)
-[Stacks and Queues + tips for efficient implementation]()
+<br>
+[Stacks and Queues + tips for efficient implementation](https://blog.sessionstack.com/how-javascript-works-stacks-and-queues-tips-for-efficient-implementation-8072a130380b?gi=70347c2c880e)
 
