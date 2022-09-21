@@ -23,3 +23,17 @@ The queue is a linear data structure in which we can insert the element from one
 |Used to solve the recursive type problems|Used to solve the problem having sequential processing|
 
 
+
+### Which 3 things had you heard about previously and now have better clarity on?
+1- stacks.
+2- queues.
+3- event loop.
+
+### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+1- what is the sync and async operations.
+2- event loop 
+3- webApi functions
+
+### What are you most excited about trying to implement or see how it works?
+knows how single thread language works with these.
+
