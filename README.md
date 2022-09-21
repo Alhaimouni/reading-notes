@@ -36,6 +36,7 @@
 | 01 | [TDD CICD](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day01.md)|
 | 02 | [Express](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day02.md)|
 | 03 | [SQL database, ORM, Sequelize](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day04.md)|
+| 04 | [Stack,Queus and EventLoop](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day07.md)|
 
 
 
