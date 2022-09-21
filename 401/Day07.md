@@ -9,3 +9,10 @@ Stack is a linear data structure that follows the specific order to perform the 
 ### What is Queue?
 The queue is a linear data structure in which we can insert the element from one side of the list and delete the element from the other side of the list.
 
+| Stack | Queue |
+| --- | ----------- |
+| The stack is based on LIFO(Last In First Out) principle| The queue is based on FIFO(First In First Out) principle.|
+| Insertion Operation is called Push Operation|Insertion Operation is called Enqueue Operation|
+
+
+
