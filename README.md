@@ -38,7 +38,8 @@
 | 03 | [SQL database, ORM, Sequelize](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day04.md)|
 | 04 | [Stack,Queus and EventLoop](https://github.com/Alhaimouni/reading-notes/blob/main/401/Day07.md)|
 | 05 | [Reducers](https://github.com/Alhaimouni/reading-notes/blob/main/401/Reducers.md)|
-| 06 | [SocketIO](https://github.com/Alhaimouni/reading-notes/blob/main/401/socketIO.md)
+| 06 | [SocketIO](https://github.com/Alhaimouni/reading-notes/blob/main/401/socketIO.md)|
+| 07 | [Hash Table](https://github.com/Alhaimouni/reading-notes/blob/main/401/HashTable.md)|
 
 
 
