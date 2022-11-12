@@ -40,7 +40,7 @@
 | 05 | [Reducers](https://github.com/Alhaimouni/reading-notes/blob/main/401/Reducers.md)|
 | 06 | [SocketIO](https://github.com/Alhaimouni/reading-notes/blob/main/401/socketIO.md)|
 | 07 | [Hash Table](https://github.com/Alhaimouni/reading-notes/blob/main/401/HashTable.md)|
-| 08 | [Chakra UI]()|
+| 08 | [Chakra UI](https://github.com/Alhaimouni/reading-notes/blob/main/401/chakraUI.md)|
 
 
 
