@@ -41,7 +41,7 @@
 | 06 | [SocketIO](https://github.com/Alhaimouni/reading-notes/blob/main/401/socketIO.md)|
 | 07 | [Hash Table](https://github.com/Alhaimouni/reading-notes/blob/main/401/HashTable.md)|
 | 08 | [Chakra UI](https://github.com/Alhaimouni/reading-notes/blob/main/401/chakraUI.md)|
-
+| 09 | [Graphs](https://github.com/Alhaimouni/reading-notes/blob/main/401/graphs.md)|
 
 
 
