@@ -42,6 +42,7 @@
 | 07 | [Hash Table](https://github.com/Alhaimouni/reading-notes/blob/main/401/HashTable.md)|
 | 08 | [Chakra UI](https://github.com/Alhaimouni/reading-notes/blob/main/401/chakraUI.md)|
 | 09 | [Graphs](https://github.com/Alhaimouni/reading-notes/blob/main/401/graphs.md)|
+| 10 | [Redux](https://github.com/Alhaimouni/reading-notes/blob/main/401/redux.md)|
 
 
 
