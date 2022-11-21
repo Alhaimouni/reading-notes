@@ -43,6 +43,7 @@
 | 08 | [Chakra UI](https://github.com/Alhaimouni/reading-notes/blob/main/401/chakraUI.md)|
 | 09 | [Graphs](https://github.com/Alhaimouni/reading-notes/blob/main/401/graphs.md)|
 | 10 | [Redux](https://github.com/Alhaimouni/reading-notes/blob/main/401/redux.md)|
+| 11 |[Advance Redux](https://github.com/Alhaimouni/reading-notes/blob/main/401/AdvanceReducer.md)|
 
 
 
